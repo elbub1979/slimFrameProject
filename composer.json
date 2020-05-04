@@ -1,0 +1,21 @@
+{
+    "name": "elbub/slim-frame-project",
+    "description": "slim-frame-project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "elbub",
+            "email": "ilya.leuh09@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.1",
+        "nyholm/psr7": "^1.2",
+        "nyholm/psr7-server": "^0.4.1",
+        "guzzlehttp/psr7": "^1.6",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "laminas/laminas-diactoros": "^2.3",
+        "slim/php-view": "^2.2"
+    }
+}
